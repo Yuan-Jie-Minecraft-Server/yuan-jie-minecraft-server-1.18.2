@@ -1,0 +1,112 @@
+[14:36:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:37:03] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:37:05] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[14:37:05] [Server thread/INFO]: Loading properties
+[14:37:05] [Server thread/INFO]: This server is running Paper version git-Paper-230 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: 1e12cf8)
+[14:37:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:37:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:37:06] [Server thread/INFO]: Default game type: SURVIVAL
+[14:37:06] [Server thread/INFO]: Generating keypair
+[14:37:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:37:06] [Server thread/INFO]: Using default channel type
+[14:37:06] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[14:37:06] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:37:09] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.2.1
+[14:37:09] [Server thread/INFO]: [ViaVersion] ViaVersion 4.2.1 is now loaded, injecting!
+[14:37:09] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[14:37:10] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[14:37:10] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[14:37:10] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[14:37:10] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[14:37:10] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[14:37:10] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[14:37:10] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[14:37:10] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4-dev+2-3984bdd
+[14:37:10] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.2.0
+[14:37:10] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:37:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:37:10] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[14:37:10] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[14:37:10] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[14:37:11] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[14:37:11] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[14:37:11] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[14:37:11] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[14:37:11] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[14:37:11] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[14:37:11] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[14:37:11] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[14:37:11] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[14:37:11] [Server thread/INFO]: [MiniMOTD] Loading MiniMOTD v2.0.5
+[14:37:11] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.2
+[14:37:11] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.13
+[14:37:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.0.2-SNAPSHOT
+[14:37:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:37:11] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.2
+[14:37:12] [Server thread/INFO]: Preparing level "world"
+[14:37:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:37:15] [Server thread/INFO]: Time elapsed: 683 ms
+[14:37:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:37:16] [Server thread/INFO]: Time elapsed: 172 ms
+[14:37:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:37:16] [Server thread/INFO]: Time elapsed: 182 ms
+[14:37:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.2.1
+[14:37:16] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4-dev+2-3984bdd
+[14:37:17] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:37:17] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:37:17] [Server thread/INFO]: [Essentials] Loaded 36926 items from items.json.
+[14:37:17] [Server thread/INFO]: [Essentials] Using locale en_MY
+[14:37:17] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:37:17] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:37:18] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:37:18] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.2.0
+[14:37:18] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[14:37:18] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[14:37:18] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[14:37:18] [Server thread/INFO]: Preparing start region for dimension minecraft:flat
+[14:37:18] [Server thread/INFO]: Time elapsed: 481 ms
+[14:37:18] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[14:37:18] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[14:37:19] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[14:37:19] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.0.5
+[14:37:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.13
+[14:37:22] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_18_R2, using MappingSpigotSkinRefresher.
+[14:37:22] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:37:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.0.2-SNAPSHOT
+[14:37:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:37:28] [Server thread/INFO]: [Geyser-Spigot] 
+[14:37:28] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.0.2-SNAPSHOT (git-master-a1bb434)
+[14:37:28] [Server thread/INFO]: [Geyser-Spigot] 
+[14:37:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:37:41] [Network Listener - #1/INFO]: [Geyser-Spigot] Started Geyser on 127.0.0.1:25565
+[14:37:41] [Server thread/INFO]: [Geyser-Spigot] Done (12.759s)! Run /geyser help for help!
+[14:37:41] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract en_us locale, please wait... (this may take some time depending on the speed of your internet connection)
+[14:37:42] [Server thread/INFO]: Running delayed init tasks
+[14:37:42] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.18.2 (758)
+[14:37:42] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.1.13
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
+[14:37:42] [Craft Scheduler Thread - 8 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:37:42] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[14:37:42] [Server thread/INFO]: Done (37.238s)! For help, type "help"
+[14:37:43] [Server thread/INFO]: Timings Reset
+[14:37:46] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/66, uuid='eb601cdc-9d01-463a-bb05-7f895a4782b0', l='ServerLevel[world]', x=-62.52, y=70.00, z=33.21, cpos=[-4, 2], tl=146306, v=false]
+[14:37:47] [Server thread/WARN]: UUID of added entity already exists: EntityVillager['Villager'/129, uuid='946c3c35-313e-4bb1-88ac-c5862ffc2823', l='ServerLevel[flat]', x=102.65, y=-58.44, z=32.62, cpos=[6, 2], tl=432145, v=false]
+[14:37:48] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[14:54:59] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:07:05] [User Authenticator #1/INFO]: UUID of player AnVius0623 is c5c0f74a-9d3b-4b0f-a799-d9a46f069522
+[15:07:09] [Server thread/INFO]: AnVius0623 joined the game
+[15:07:10] [Server thread/INFO]: AnVius0623[/127.127.205.176:6446] logged in with entity id 243 at ([world]-13.723891486783277, 71.0, 19.463150342419773)
+[15:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5290ms or 105 ticks behind
+[15:07:11] [Craft Scheduler Thread - 11 - Essentials/INFO]: [Essentials] Found new UUID for AnVius0623. Replacing 2976f123-be02-3a4c-9d79-e9deff20a447 with c5c0f74a-9d3b-4b0f-a799-d9a46f069522
+[15:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49717ms or 994 ticks behind
+[15:09:28] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/390, uuid='65d3f5fe-0c7b-4602-b099-ce6aab03c1dc', l='ServerLevel[world]', x=-223.35, y=70.00, z=130.11, cpos=[-14, 8], tl=339904, v=false]
+[15:09:31] [Server thread/INFO]: AnVius0623 lost connection: Disconnected
+[15:09:32] [Server thread/INFO]: AnVius0623 left the game
