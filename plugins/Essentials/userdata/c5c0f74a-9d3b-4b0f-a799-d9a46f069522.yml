@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.127.205.176
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1646731771373
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1646550571579
-  login: 1646550431700
+  logout: 1646733924125
+  login: 1646722730634
 money: '0'
 last-account-name: AnVius0623
 logoutlocation:
   world: b318d1f7-21c7-4b00-aca8-a3e274414437
   world-name: world
-  x: -20.996779318154022
-  y: 70.0
-  z: 23.75340808167971
-  yaw: 51.30057907104492
-  pitch: -8.099989891052246
+  x: -67.6984215899685
+  y: 69.0
+  z: 42.610960001605044
+  yaw: 72.57568359375
+  pitch: 24.15023422241211
+lastlocation:
+  world: b318d1f7-21c7-4b00-aca8-a3e274414437
+  world-name: world
+  x: -60.52257567604343
+  y: 64.0
+  z: 90.60063590421943
+  yaw: 143.69183349609375
+  pitch: 20.39984703063965
